@@ -238,23 +238,23 @@ tl.to(
 })
 
 
-tl.to('#pannel-1', { y: -window.innerHeight * 3, duration:3 },0);
+tl.to('#pannel-1', { y: -window.innerHeight * 3, duration:4 },0);
 
-tl.to('#pannel-2', { y: -window.innerHeight * 3, duration:3 },4);
+tl.to('#pannel-2', { y: -window.innerHeight * 3, duration:4 },4);
 
-tl.to('#pannel-3', { y: -window.innerHeight * 3, duration:3 },8);
+tl.to('#pannel-3', { y: -window.innerHeight * 3, duration:4 },8);
 
-tl.to('#pannel-4', { y: -window.innerHeight * 3, duration:3 },12);
+tl.to('#pannel-4', { y: -window.innerHeight * 3, duration:4 },12);
 
-tl.to('#pannel-5', { y: -window.innerHeight * 3, duration:3 },18);
+tl.to('#pannel-5', { y: -window.innerHeight * 3, duration:4 },18);
 
-tl.to('#pannel-6', { y: -window.innerHeight * 3, duration:3 },30);
+tl.to('#pannel-6', { y: -window.innerHeight * 3, duration:4 },30);
 
-tl.to('#pannel-7', { y: -window.innerHeight * 3, duration:3 },48);
+tl.to('#pannel-7', { y: -window.innerHeight * 3, duration:4 },48);
 
-tl.to('#pannel-8', { y: -window.innerHeight * 3, duration:3 },55);
+tl.to('#pannel-8', { y: -window.innerHeight * 3, duration:4 },55);
 
-tl.to('#pannel-9', { y: -window.innerHeight * 3, duration:3 },62);
+tl.to('#pannel-9', { y: -window.innerHeight * 3, duration:4 },62);
 
 
 for(let o=0;o<data_back.length;o++){
