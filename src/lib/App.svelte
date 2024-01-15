@@ -155,9 +155,9 @@ $: {if(mounted==true){
 		scrollTrigger: {
 			trigger: '.scroll-section-1',
 			start: 'top top',
-			end: '+=4000%',
+			end: '+=6000%',
 			pin: true,
-			scrub: 0.9,
+			scrub: 0.5,
 			anticipatePin: 1,
 			markers: false,
 			
