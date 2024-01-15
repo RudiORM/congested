@@ -265,7 +265,7 @@ for(let o=0;o<data_back.length;o++){
 		tl.to(
 	'#dot_'+o,
 	{
-		 r: function(){return rScale(data[9].Size)},
+		 r: function(){return rScale(data[o].Size)},
 
 		duration:0,
 		
@@ -300,6 +300,16 @@ tl.to(
 	},
 	3
 );
+
+tl.to(
+	'#backdot_'+o,
+	{
+		 r: function(){return rScale(data_back[o].Size)},
+
+		duration:0,
+		
+	},
+31)
 
 
 
@@ -573,7 +583,7 @@ tl.to(
 
 			{#each data_back as d, i}
 			
-				<circle cy={yScale(data_back[i].cy)-margin.top} cx={0} r={rScale(d.Size)} id={'backdot_'+i} class="dots2" fill-opacity={0.6} stroke={colors[d['Means of Travel']]} fill={colors[d['Means of Travel']]} stroke-width={'0px'} />
+				<circle cy={yScale(data_back[i].cy)-margin.top} cx={0} r={0} id={'backdot_'+i} class="dots2" fill-opacity={0.6} stroke={colors[d['Means of Travel']]} fill={colors[d['Means of Travel']]} stroke-width={'0px'} />
 
 				
 			{/each}
