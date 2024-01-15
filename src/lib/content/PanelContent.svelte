@@ -54,9 +54,9 @@
 	<div class="text-panel"  style="max-width:{0.8*(xScale(10)-xScale(0))}px" id="pannel-{index}">
 		<p>
 
-			each large dot here represents 1,000 commuters. all of the data is taken from the 2022 census.
+			you are able to find data about commuting from the 2022 census in ireland. 
+			each large dot here represents 1,000 commuters.
 	
-			
 
 	   
 		</p>
