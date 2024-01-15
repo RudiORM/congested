@@ -574,7 +574,7 @@ tl.to(
 	
 			{#each data as d, i}
 			
-				<circle cy={yScale(data[i].cy)-margin.top} cx={-4} r={0} id={'dot_'+i} class="dots" fill-opacity={0.6} stroke={colors[d['Means of Travel']]} fill={colors[d['Means of Travel']]} stroke-width={'0px'} />
+				<circle cy={yScale(data[i].cy)-margin.top} cx={-3} r={0} id={'dot_'+i} class="dots" fill-opacity={0.6} stroke={colors[d['Means of Travel']]} fill={colors[d['Means of Travel']]} stroke-width={'0px'} />
 
 			
 			{/each}
