@@ -70,8 +70,8 @@ office for a number of reasons that seem pretty vague.  -->
 			<br><br>
 
 
-		having studied these commuters, what you might find
-		strangest of all are the contradictions at the centre of working and 
+		what you might find strangest of all are
+		the apparent contradictions when it comes to working and 
 		commuting in ireland.
 
 		<br><br><br>
@@ -95,14 +95,14 @@ office for a number of reasons that seem pretty vague.  -->
 
 		<br><br><br>
 
-		Many workers are once again facing unavoidable 
+		Many workers are now facing unavoidable 
 		long commutes to office as remote working fades, 
 		and sky-high housing prices keeping them priced out of dublin. in the words of
 		
-		
+
 		<a target=”_blank” href='https://www.thejournal.ie/readme/remote-working-ireland-3-6256634-Dec2023/' fill='#fb8500'>
 			
-			joanne mangan, communications manager with grow remote</a>:
+			joanne mangan </a>, communications manager with grow remote:
 
 		<br><br><br>
 
@@ -115,10 +115,9 @@ office for a number of reasons that seem pretty vague.  -->
 			anyway, you best get going - it's a long journey back
 			to your home planet and you'll want to beat the traffic.
 
-
 			<br><br><br><br>
 
-			rudi o'reilly meehan<br>
+			by: rudi o'reilly meehan<br>
 			<a target=”_blank” href='https://dataanddesign.ie/' fill='#fb8500'>
 			data & design
 			</a>
