@@ -260,6 +260,21 @@ tl.to('#pannel-9', { y: -window.innerHeight * 3, duration:3 },62);
 for(let o=0;o<data_back.length;o++){
 
 	if(o<data.length){
+
+
+		tl.to(
+	'#dot_'+o,
+	{
+		 r: function(){return rScale(data[9].Size)},
+
+		duration:0,
+		
+	},
+1);
+
+		
+
+
 tl.to(
 	'#dot_'+o,
 	{
@@ -452,6 +467,7 @@ tl.to(".dots", {duration: 0, r:0},
 25);
 
 
+
 sqdata.forEach(function(o,i){
 
 tl.to(
@@ -548,7 +564,7 @@ tl.to(
 	
 			{#each data as d, i}
 			
-				<circle cy={yScale(data[i].cy)-margin.top} cx={-4} r={rScale(d.Size)} id={'dot_'+i} class="dots" stroke-opacity={0.5} fill-opacity={0.6} stroke={colors[d['Means of Travel']]} fill={colors[d['Means of Travel']]} stroke-width={'0px'} />
+				<circle cy={yScale(data[i].cy)-margin.top} cx={-4} r={0} id={'dot_'+i} class="dots" stroke-opacity={0.5} fill-opacity={0.6} stroke={colors[d['Means of Travel']]} fill={colors[d['Means of Travel']]} stroke-width={'0px'} />
 
 			
 			{/each}
