@@ -319,7 +319,7 @@ tl.to(
 	'#backdot_'+o,
 	{
 		// cx: function(){return 500+13*o.cx_final},
-		 cx: function(){return -4},
+		 cx: function(){return -3},
 
 		duration:function(){return data_back[o].Duration+0.5*Math.random()},
 		
