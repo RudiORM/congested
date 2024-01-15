@@ -102,7 +102,7 @@ office for a number of reasons that seem pretty vague.  -->
 		
 		<a target=”_blank” href='https://www.thejournal.ie/readme/remote-working-ireland-3-6256634-Dec2023/' fill='#fb8500'>
 			
-			joanne mangan, communications manager with grow remote </a>:
+			joanne mangan, communications manager with grow remote</a>:
 
 		<br><br><br>
 
