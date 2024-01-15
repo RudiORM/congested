@@ -16,7 +16,7 @@ body {
 
 @font-face {
     font-family: Major Mono;
-    src: url("Major_Mono_Display/MajorMonoDisplay-Regular.ttf") format("truetype");
+    src: url("/Major_Mono_Display/MajorMonoDisplay-Regular.ttf") format("truetype");
 }
 
 body {
