@@ -157,7 +157,7 @@ $: {if(mounted==true){
 			start: 'top top',
 			end: function(){if(cmax ==5){return '+=15000%'}else{return '+=5000%'}},
 			pin: true,
-			scrub: 0.5,
+			scrub: 1,
 			anticipatePin: 1,
 			markers: false,
 			
