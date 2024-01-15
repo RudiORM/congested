@@ -155,7 +155,7 @@ $: {if(mounted==true){
 		scrollTrigger: {
 			trigger: '.scroll-section-1',
 			start: 'top top',
-			end: function(){if(cw < 600){return '+=10000%'}else{return '+=5000%'}},
+			end: function(){if(cmax ==5){return '+=15000%'}else{return '+=5000%'}},
 			pin: true,
 			scrub: 0.5,
 			anticipatePin: 1,
