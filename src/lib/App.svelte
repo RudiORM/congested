@@ -548,7 +548,7 @@ tl.to(
 	
 			{#each data as d, i}
 			
-				<circle cy={yScale(data[i].cy)-margin.top} cx={-4} r={rScale(d.Size)} id={'dot_'+i} class="dots" stroke-opacity={0.5} fill-opacity={0.7} stroke={colors[d['Means of Travel']]} fill={colors[d['Means of Travel']]} stroke-width={'0px'} />
+				<circle cy={yScale(data[i].cy)-margin.top} cx={-4} r={rScale(d.Size)} id={'dot_'+i} class="dots" stroke-opacity={0.5} fill-opacity={0.6} stroke={colors[d['Means of Travel']]} fill={colors[d['Means of Travel']]} stroke-width={'0px'} />
 
 			
 			{/each}
@@ -557,7 +557,7 @@ tl.to(
 
 			{#each data_back as d, i}
 			
-				<circle cy={yScale(data_back[i].cy)-margin.top} cx={0} r={rScale(d.Size)} id={'backdot_'+i} class="dots2" stroke-opacity={0.5} fill-opacity={0.7} stroke={colors[d['Means of Travel']]} fill={colors[d['Means of Travel']]} stroke-width={'0px'} />
+				<circle cy={yScale(data_back[i].cy)-margin.top} cx={0} r={rScale(d.Size)} id={'backdot_'+i} class="dots2" stroke-opacity={0.5} fill-opacity={0.6} stroke={colors[d['Means of Travel']]} fill={colors[d['Means of Travel']]} stroke-width={'0px'} />
 
 				
 			{/each}
