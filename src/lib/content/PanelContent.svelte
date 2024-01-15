@@ -37,7 +37,7 @@
       
 
 		
-		<br><br>
+	
 
 	you decide to start watching people leaving their homes and split the different forms of transport 
 	into 3 groups:
