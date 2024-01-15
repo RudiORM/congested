@@ -54,8 +54,8 @@
 	<div class="text-panel"  style="max-width:{0.8*(xScale(10)-xScale(0))}px" id="pannel-{index}">
 		<p>
 
-			<br><br> each large dot here represents 1,000 commuters. all of the data here is from the 2022 census.
-			<br><br>
+			each large dot here represents 1,000 commuters. all of the data is taken from the 2022 census.
+	
 			
 
 	   
