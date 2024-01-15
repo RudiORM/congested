@@ -1,0 +1,9 @@
+Means of Travel,Nrows,Start,start_new
+Motor car: Driver,25,0,0
+Motor car: Passenger,3,26,44
+"Other, incl. lorry",5,30,32
+Motorcycle or scooter,1,36,56
+"Bus, minibus or coach",5,38,38
+"Train, DART or LUAS",3,44,48
+On foot,5,48,26
+Bicycle,3,54,52
