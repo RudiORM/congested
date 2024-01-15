@@ -36,7 +36,7 @@
 you learn that the first two boxes are called "home" and "work" and that the 
 journey between each is called "commuting". <br><br><br>
 
-you decide to examine these "commuters" more closely.
+you decide to examine these commuters more closely.
 
 <!-- 
 in ireland, recent census results showed that more people are doing this than ever

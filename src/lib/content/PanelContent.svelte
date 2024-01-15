@@ -35,13 +35,12 @@
 <div class="text-panel" style="max-width:{0.8*(xScale(10)-xScale(0))}px" id="pannel-{index}">
     <p>
       
-		you learn a census took place in 2022, where people
-		were asked about their commute.
+
 		
 		<br><br>
 
-	the different forms of transport 
-		can be split into 3 groups:
+	you split the different forms of transport 
+	into 3 groups:
 			<span style='color:#EDBD7F'>private</span>, 
 			<span style='color:#F5D784'>public</span>, or
 			<span style='color:#96C6D6'>human-powered</span>.
@@ -55,9 +54,8 @@
 	<div class="text-panel"  style="max-width:{0.8*(xScale(10)-xScale(0))}px" id="pannel-{index}">
 		<p>
 
-			you start to watch these commuters leaving home. <br><br>each large dot here represents 1,000 commuters and does
-			not include children or students.
-
+			you start to watch people leaving their homes. <br><br> this data is taken from the 2022 census, 
+			with each large dot representing 1,000 commuters.
 			<br><br>
 			
 
@@ -69,10 +67,6 @@
 	
 		you first notice that over 200,000 people in the country 
 		are leaving home before 6:30 - nearly double that of 2011.
-
-		<br><br>
-
-		you might find this a bit bleak - but maybe you shouldn't.
 
 	</div>
 
@@ -88,8 +82,7 @@
 			<br><br>
 
 			o'connell's point was that since one third of the workforce work from home 
-			at least one day a week, longer,
-			earlier journeys can be more palatable.
+			at least one day a week, longer, earlier journeys can be more palatable.
 
 		</p>
 	</div>
