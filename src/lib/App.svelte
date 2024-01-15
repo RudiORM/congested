@@ -583,11 +583,11 @@ tl.to(
 
 
 			y={-8-12.5+yScale(d.Start)-margin.top + (yScale(d.Nrows)-yScale(0))/2}
-		id={'text'+i} opacity=0 style="text-align:left;text-anchor:start;font-weight:bold;font-size:{fsize};color:{'#444'}; vertical-align: middle !important;">
+		id={'text'+i} opacity=0 style="text-align:left;text-anchor:start;font-weight:normal;font-size:{fsize};color:{'#444'}; vertical-align: middle !important;">
 			
 
-			<div class="textlabel" style="font-weight:bold;font-size:{fsize};color:{'#444'}; vertical-align: middle !important;" >
-				<span style='vertical-align: middle!important; font-weight:bold;font-size:{fsize};color:{'#444'}'>{
+			<div class="textlabel" style="font-weight:normal;font-size:{fsize};color:{'#444'}; vertical-align: middle !important;" >
+				<span style='vertical-align: middle!important; font-weight:normal;font-size:{fsize};color:{'#444'}'>{
 					d['Short']}</span>
 			  </div>
 			
@@ -603,10 +603,10 @@ tl.to(
 			height={50}
 			x={xScale(5)-2}
 			y={-8-12.5+yScale(d.Start)-margin.top + (yScale(d.Nrows)-yScale(0))/2}
-			 opacity=1 id={'pct'+i} style="text-align:right;text-anchor:end;font-weight:bold;font-size:{fsize};color:{'#444'}; vertical-align: middle;">
+			 opacity=1 id={'pct'+i} style="text-align:right;text-anchor:end;font-weight:normal;font-size:{fsize};color:{'#444'}; vertical-align: middle;">
 
-			  <div class="pctlabel" style="font-weight:bold;font-size:{fsize};color:{'#444'}; vertical-align: middle;" >
-				<span style='vertical-align: middle;font-weight:bold;font-size:{fsize};color:{'#444'}'>{
+			  <div class="pctlabel" style="font-weight:normal;font-size:{fsize};color:{'#444'}; vertical-align: middle;" >
+				<span style='vertical-align: middle;font-weight:normal;font-size:{fsize};color:{'#444'}'>{
 
 
 
